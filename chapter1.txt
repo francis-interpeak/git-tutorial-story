@@ -1,1 +1,3 @@
 This is the first line added.
+
+Now I have made a change I want to keep.  Or really I'm just drilling using git from the CLI.
